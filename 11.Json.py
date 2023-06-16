@@ -22,6 +22,6 @@ book['alex']={
 import json
 s=json.dumps(book)
 print(s)
-with open("book.txt","w") as f: #add your file location 
+with open("book.txt","w") as f:
     f.write(s)
 
