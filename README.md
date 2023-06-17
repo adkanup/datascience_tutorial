@@ -12,3 +12,4 @@
 10. calc,module,
 11. Json,read and write 
 11. Reading and writing of file 
+12. Exception handling
